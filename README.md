@@ -9,9 +9,26 @@ My name is Michael (he/him) and:
   - SQL
   - git
 
-- :uk: I am based in London, UK.
+- :house: I am based in London, UK.
 
 ## What am I working on?
+
+- :books: As part of the course I am trying to provide solutions to the [problems that are set](./Portfolio%20Problems/).
+- :stopwatch: **Coming Soon:** Data analysis of my commute to work by bicycle, looking for such insights as:
+    - Does the weather affect the time taken?
+    - Do the school holidays affect the time taken?
+    - Can the amount of recent cycling affect performance?
+
+
+## Who I am outside of Work
+
+In my free time I have a range of interests:
+
+- :curry: Food: In particular I love to try and make Japanese recipes :japan:.
+- :bike: Cycling: As well as commuting there are lots of fantastic things to see by bike near me.
+- :metal: Music: As an avid metal fan, I go to many gigs and festivals.
+- :game_die: Games: There is biannual board games convention which results in two of the highlights of my year. I'm also like video games :video_game: and chess :chess_pawn:. I'll play anything really!
+-  :cricket_game: Sport: Similarly, I'll follow most sports :rugby_football:
 
 <!--
 **michaelagiles/michaelagiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
