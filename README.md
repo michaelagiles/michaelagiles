@@ -30,6 +30,9 @@ In my free time I have a range of interests:
 - :game_die: Games: There is biannual board games convention which results in two of the highlights of my year. I'm also like video games :video_game: and chess :chess_pawn:. I'll play anything really!
 -  :cricket_game: Sport: Similarly, I'll follow most sports :rugby_football:
 
+## Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/michael-a-giles)
+
 <!--
 **michaelagiles/michaelagiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
